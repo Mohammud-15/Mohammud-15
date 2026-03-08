@@ -1,44 +1,48 @@
+<!-- HEADER -->
+
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mohammed%20Alabrash&fontSize=45&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=220&section=header&text=Mohammed%20Alabrash&fontSize=45&fontColor=ffffff"/>
 </p>
 
-<h1 align="center">👋 Hello, I'm Mohammed Alabrash</h1>
+<!-- TYPING ANIMATION -->
 
 <p align="center">
-Computer Engineer • Neural Networks Specialist • AI Developer
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Computer+Engineer;Neural+Networks+Specialist;Artificial+Intelligence+Developer;Python+%7C+C%2B%2B+Programmer;AI+Content+Creator+on+YouTube"/>
+</p>
+
+<!-- VISITOR COUNTER -->
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ---
 
 # 🧠 About Me
 
-I am **Mohammed Alabrash**, a **Computer Engineer** focused on **Artificial Intelligence and Neural Networks**.
+Hello, I'm **Mohammed Alabrash**.
 
-My main programming languages are:
+I am a **Computer Engineer specializing in Artificial Intelligence and Neural Networks**.  
+My work focuses on building intelligent systems using **Python and C++**.
 
-- **Python**
-- **C++**
-
-I build and experiment with **AI models, deep learning systems, and intelligent algorithms**.
-
-Besides development, I am also a **YouTube content creator**, where I share knowledge about:
+I also create **educational technology content on YouTube**, where I explain:
 
 - Artificial Intelligence  
-- Programming  
 - Neural Networks  
-- Technology
+- Programming  
+- Technology concepts  
 
-My long-term ambition is to **combine Artificial Intelligence with entrepreneurship** and build innovative technology ventures.
+My long-term vision is to combine **AI engineering with entrepreneurship** to build impactful technological products.
 
 ---
 
 # 🚀 Current Focus
 
-• Neural Networks  
-• Deep Learning  
-• AI Engineering  
-• Building educational AI content on YouTube  
-• Developing real AI projects using Python
+- Neural Networks  
+- Deep Learning  
+- Machine Learning Systems  
+- AI research and experimentation  
+- Educational AI content creation  
 
 ---
 
@@ -52,32 +56,47 @@ My long-term ambition is to **combine Artificial Intelligence with entrepreneurs
 
 ---
 
-# 📚 AI Interests
+# 🧠 AI Fields I Work With
 
-My technical interests include:
-
-- Neural Networks
-- Deep Learning
-- Machine Learning
-- Artificial Intelligence Systems
-- Algorithm Design
+- Neural Networks  
+- Deep Learning  
+- Machine Learning  
+- AI Algorithms  
+- Intelligent Systems  
 
 ---
 
-# 🎥 YouTube Content
+# 🤖 Featured AI Projects
 
-I create educational videos explaining:
+<p align="center">
 
-• Artificial Intelligence  
-• Programming concepts  
-• Neural Networks  
-• Technology insights  
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=AI-Project-1&theme=tokyonight"/>
 
-Future plans include **AI tutorials and real project implementations**.
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Neural-Network-Project&theme=tokyonight"/>
+
+</p>
 
 ---
 
-# 📊 GitHub Analytics
+# 🎥 Latest YouTube Content
+
+<p align="center">
+
+<a href="https://youtube.com/">
+<img src="https://img.shields.io/badge/YouTube-Visit%20Channel-red?style=for-the-badge&logo=youtube"/>
+</a>
+
+</p>
+
+Future videos will include:
+
+- AI tutorials  
+- Neural network implementations  
+- Python AI projects  
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -89,7 +108,7 @@ Future plans include **AI tutorials and real project implementations**.
 
 ---
 
-# 📈 Activity Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -99,21 +118,17 @@ Future plans include **AI tutorials and real project implementations**.
 
 ---
 
-# 🎯 Future Goals
+# 🎯 Future Vision
 
-My future goals include:
+My goals include:
 
-• Building AI-powered startups  
-• Creating advanced neural network systems  
-• Publishing open-source AI projects  
-• Educating people about Artificial Intelligence  
+- Building AI startups  
+- Publishing open-source AI systems  
+- Creating advanced neural network architectures  
+- Educating the next generation about Artificial Intelligence  
 
 ---
 
 <p align="center">
-"Artificial Intelligence is not the future. It is the present being built today."
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:243B55,100:141E30&height=120&section=footer"/>
 </p>
