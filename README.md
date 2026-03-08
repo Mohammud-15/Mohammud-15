@@ -1,16 +1,16 @@
-<!-- HEADER -->
+<!-- NEURAL NETWORK HEADER -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=220&section=header&text=Mohammed%20Alabrash&fontSize=45&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=240&section=header&text=Mohammed%20Alabrash&fontSize=45&fontColor=ffffff"/>
 </p>
 
-<!-- TYPING ANIMATION -->
+<!-- AI TYPING INTRO -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Computer+Engineer;Neural+Networks+Specialist;Artificial+Intelligence+Developer;Python+%7C+C%2B%2B+Programmer;AI+Content+Creator+on+YouTube"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Computer+Engineer;Artificial+Intelligence+Developer;Neural+Networks+Specialist;Python+%7C+C%2B%2B+Programmer;AI+Content+Creator"/>
 </p>
 
-<!-- VISITOR COUNTER -->
+<!-- PROFILE VIEWS -->
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
@@ -20,33 +20,34 @@
 
 # 🧠 About Me
 
-Hello, I'm **Mohammed Alabrash**.
+I am **Mohammed Alabrash**, a **Computer Engineer specializing in Artificial Intelligence and Neural Networks**.
 
-I am a **Computer Engineer specializing in Artificial Intelligence and Neural Networks**.  
-My work focuses on building intelligent systems using **Python and C++**.
+My work focuses on:
 
-I also create **educational technology content on YouTube**, where I explain:
+• Neural Networks  
+• Deep Learning  
+• Machine Learning Systems  
+• Intelligent Algorithms  
 
-- Artificial Intelligence  
-- Neural Networks  
-- Programming  
-- Technology concepts  
+I primarily develop using **Python and C++**, and I am passionate about building real AI systems and explaining them through **educational YouTube content**.
 
-My long-term vision is to combine **AI engineering with entrepreneurship** to build impactful technological products.
-
----
-
-# 🚀 Current Focus
-
-- Neural Networks  
-- Deep Learning  
-- Machine Learning Systems  
-- AI research and experimentation  
-- Educational AI content creation  
+My long-term goal is to build **AI-driven technology startups** that apply intelligent systems to real-world problems.
 
 ---
 
-# 🛠 Tech Stack
+# 🔬 Artificial Intelligence Research Interests
+
+My technical interests include:
+
+- Neural Network Architectures  
+- Deep Learning Optimization  
+- Representation Learning  
+- AI Model Training  
+- Applied Machine Learning
+
+---
+
+# 🧰 Technical Stack
 
 <p align="center">
 
@@ -56,47 +57,49 @@ My long-term vision is to combine **AI engineering with entrepreneurship** to bu
 
 ---
 
-# 🧠 AI Fields I Work With
-
-- Neural Networks  
-- Deep Learning  
-- Machine Learning  
-- AI Algorithms  
-- Intelligent Systems  
-
----
-
 # 🤖 Featured AI Projects
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=AI-Project-1&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=neural-network-project&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Neural-Network-Project&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=deep-learning-project&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 🎥 Latest YouTube Content
+# 📚 Publications / Research Notes
+
+Future plans include publishing:
+
+- AI research experiments  
+- Neural network implementations  
+- Deep learning case studies  
+- Technical documentation for AI models  
+
+---
+
+# 🎥 AI Education (YouTube)
 
 <p align="center">
 
 <a href="https://youtube.com/">
-<img src="https://img.shields.io/badge/YouTube-Visit%20Channel-red?style=for-the-badge&logo=youtube"/>
+<img src="https://img.shields.io/badge/YouTube-AI%20Content-red?style=for-the-badge&logo=youtube"/>
 </a>
 
 </p>
 
-Future videos will include:
+Topics include:
 
-- AI tutorials  
-- Neural network implementations  
-- Python AI projects  
+• Artificial Intelligence  
+• Neural Networks  
+• Python Programming  
+• Machine Learning
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
 
@@ -118,17 +121,24 @@ Future videos will include:
 
 ---
 
-# 🎯 Future Vision
+# 🧭 AI Learning Roadmap
 
-My goals include:
+My continuous development roadmap includes:
 
-- Building AI startups  
-- Publishing open-source AI systems  
-- Creating advanced neural network architectures  
-- Educating the next generation about Artificial Intelligence  
+✔ Advanced Neural Networks  
+✔ Reinforcement Learning  
+✔ Generative Models  
+✔ Large Language Models  
+✔ AI System Architecture
+
+---
+
+# 🎯 Vision
+
+My mission is to contribute to the advancement of **Artificial Intelligence engineering**, while building systems that bring real technological impact.
 
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:243B55,100:141E30&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 </p>
