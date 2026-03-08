@@ -1,58 +1,43 @@
-<!-- NEURAL NETWORK HEADER -->
+<!-- Neural Network Banner -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=240&section=header&text=Mohammed%20Alabrash&fontSize=45&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Mohammed%20Alabrash&fontSize=45&fontColor=ffffff"/>
 </p>
 
-<!-- AI TYPING INTRO -->
-
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Computer+Engineer;Artificial+Intelligence+Developer;Neural+Networks+Specialist;Python+%7C+C%2B%2B+Programmer;AI+Content+Creator"/>
-</p>
-
-<!-- PROFILE VIEWS -->
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Computer+Engineer;Neural+Networks+Specialist;Artificial+Intelligence+Developer;Python+%7C+C%2B%2B+Programmer;AI+Content+Creator"/>
 </p>
 
 ---
 
 # 🧠 About Me
 
-I am **Mohammed Alabrash**, a **Computer Engineer specializing in Artificial Intelligence and Neural Networks**.
+I am **Mohammed Alabrash**, a Computer Engineer focused on **Artificial Intelligence and Neural Networks**.
 
-My work focuses on:
+My work includes building intelligent systems using:
 
-• Neural Networks  
-• Deep Learning  
-• Machine Learning Systems  
-• Intelligent Algorithms  
+- Python  
+- C++  
+- PyTorch  
+- TensorFlow  
 
-I primarily develop using **Python and C++**, and I am passionate about building real AI systems and explaining them through **educational YouTube content**.
-
-My long-term goal is to build **AI-driven technology startups** that apply intelligent systems to real-world problems.
+I also create educational content about **AI, programming, and neural networks**.
 
 ---
 
-# 🔬 Artificial Intelligence Research Interests
-
-My technical interests include:
-
-- Neural Network Architectures  
-- Deep Learning Optimization  
-- Representation Learning  
-- AI Model Training  
-- Applied Machine Learning
-
----
-
-# 🧰 Technical Stack
+# 📊 AI Skills Radar
 
 <p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=tokyonight"/>
+</p>
 
+---
+
+# 🧰 Tech Stack
+
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,git,github,vscode,linux"/>
-
 </p>
 
 ---
@@ -69,73 +54,59 @@ My technical interests include:
 
 ---
 
-# 📚 Publications / Research Notes
+# 🖼 Projects Gallery
 
-Future plans include publishing:
-
-- AI research experiments  
-- Neural network implementations  
-- Deep learning case studies  
-- Technical documentation for AI models  
-
----
-
-# 🎥 AI Education (YouTube)
-
-<p align="center">
-
-<a href="https://youtube.com/">
-<img src="https://img.shields.io/badge/YouTube-AI%20Content-red?style=for-the-badge&logo=youtube"/>
-</a>
-
-</p>
-
-Topics include:
-
-• Artificial Intelligence  
-• Neural Networks  
-• Python Programming  
-• Machine Learning
+| Project | Description |
+|-------|-------------|
+| Neural Network Classifier | AI model for classification problems |
+| Deep Learning Experiments | Experiments using PyTorch |
+| Machine Learning Toolkit | Collection of ML algorithms |
 
 ---
 
-# 📊 GitHub Analytics
+# 📚 Papers / Research Notes
+
+Future publications will include:
+
+- Neural network experiments  
+- Deep learning implementations  
+- AI research notes  
+- Case studies of machine learning systems  
+
+---
+
+# 📈 GitHub Statistics
 
 <p align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-
+<img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
 
-# 🧭 AI Learning Roadmap
+# 🧭 AI Learning Dashboard
 
-My continuous development roadmap includes:
-
-✔ Advanced Neural Networks  
-✔ Reinforcement Learning  
-✔ Generative Models  
-✔ Large Language Models  
-✔ AI System Architecture
+| Topic | Progress |
+|------|---------|
+| Neural Networks | █████████░ |
+| Deep Learning | ███████░░░ |
+| Reinforcement Learning | ███░░░░░░ |
+| Large Language Models | ████░░░░░ |
+| AI System Design | █████░░░░ |
 
 ---
 
 # 🎯 Vision
 
-My mission is to contribute to the advancement of **Artificial Intelligence engineering**, while building systems that bring real technological impact.
+My goal is to build **advanced AI systems** and contribute to the development of **intelligent technologies that solve real-world problems**.
 
 ---
 
