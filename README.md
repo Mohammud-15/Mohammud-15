@@ -1,64 +1,119 @@
-![Hey there, I'm Mohammed Alabrash. Computer Engineer | Neural Networks | AI Developer](https://github.com/CyrisXD/CyrisXD/raw/master/header.gif)
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mohammed%20Alabrash&fontSize=45&fontColor=ffffff"/>
+</p>
 
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?logo=GitHub&style=for-the-badge)](https://github.com/YOUR_USERNAME)
-&nbsp;
-[![YouTube Channel](https://img.shields.io/badge/YouTube-Content%20Creator-red?logo=youtube&style=for-the-badge)](https://youtube.com/)
-&nbsp;
-[![Python](https://img.shields.io/badge/Python-Developer-blue?logo=python&style=for-the-badge)]()
-&nbsp;
-[![C++](https://img.shields.io/badge/C++-Programmer-blue?logo=cplusplus&style=for-the-badge)]()
+<h1 align="center">👋 Hello, I'm Mohammed Alabrash</h1>
 
-# 👋 Hi there
-
-I'm **Mohammed Alabrash**, a **Computer Engineer** specializing in **Neural Networks and Artificial Intelligence**.
-
-I work mainly with **Python and C++**, developing AI models and exploring deep learning techniques.  
-Alongside programming, I create **educational content on YouTube** where I share knowledge about programming, artificial intelligence, and technology.
-
-I am also interested in **entrepreneurship** and aim to build innovative projects that combine **AI technology with real-world business solutions**.
+<p align="center">
+Computer Engineer • Neural Networks Specialist • AI Developer
+</p>
 
 ---
 
-# 👇 Current Work
+# 🧠 About Me
 
-Currently I am working on:
+I am **Mohammed Alabrash**, a **Computer Engineer** focused on **Artificial Intelligence and Neural Networks**.
 
-• Creating **educational YouTube content about Artificial Intelligence**  
-• Developing projects related to **Neural Networks and Deep Learning**  
-• Improving my expertise in **Python-based AI development**
+My main programming languages are:
 
-Follow my work to see upcoming **AI projects and tutorials**.
+- **Python**
+- **C++**
 
----
+I build and experiment with **AI models, deep learning systems, and intelligent algorithms**.
 
-# 🧰 My Toolbox
+Besides development, I am also a **YouTube content creator**, where I share knowledge about:
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="50" height="50"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="50" height="50"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" height="50"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" height="50"/>
+- Artificial Intelligence  
+- Programming  
+- Neural Networks  
+- Technology
+
+My long-term ambition is to **combine Artificial Intelligence with entrepreneurship** and build innovative technology ventures.
 
 ---
 
-# 🚀 Goals
+# 🚀 Current Focus
 
-My goal is to transition from **software development into AI-driven entrepreneurship**.
+• Neural Networks  
+• Deep Learning  
+• AI Engineering  
+• Building educational AI content on YouTube  
+• Developing real AI projects using Python
 
-I aspire to create startups that leverage:
+---
+
+# 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,git,github,vscode,linux"/>
+
+</p>
+
+---
+
+# 📚 AI Interests
+
+My technical interests include:
+
+- Neural Networks
+- Deep Learning
+- Machine Learning
+- Artificial Intelligence Systems
+- Algorithm Design
+
+---
+
+# 🎥 YouTube Content
+
+I create educational videos explaining:
 
 • Artificial Intelligence  
+• Programming concepts  
 • Neural Networks  
-• Smart technological solutions  
+• Technology insights  
 
-to build impactful and innovative products.
+Future plans include **AI tutorials and real project implementations**.
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+<p align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME)
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🎯 Future Goals
+
+My future goals include:
+
+• Building AI-powered startups  
+• Creating advanced neural network systems  
+• Publishing open-source AI projects  
+• Educating people about Artificial Intelligence  
+
+---
+
+<p align="center">
+"Artificial Intelligence is not the future. It is the present being built today."
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+</p>
