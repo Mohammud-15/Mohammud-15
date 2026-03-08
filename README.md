@@ -5,44 +5,55 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Computer+Engineer;Neural+Networks+Specialist;Artificial+Intelligence+Developer;Python+%7C+C%2B%2B+Programmer;AI+Content+Creator"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Computer+Engineer;Artificial+Intelligence+Developer;Digital+Signal+Processing+Engineer;Python+%7C+C%2B%2B+Programmer;HTML+CSS+JavaScript+Developer"/>
 </p>
 
 ---
 
 # 🧠 About Me
 
-I am **Mohammed Alabrash**, a Computer Engineer focused on **Artificial Intelligence and Neural Networks**.
+I am **Mohammed Alabrash**, a Computer Engineer specializing in **Artificial Intelligence**, **Neural Networks**, and **Digital Signal Processing (DSP)**.
 
-My work includes building intelligent systems using:
+My work includes developing intelligent systems using:
 
-- Python  
-- C++  
-- PyTorch  
-- TensorFlow  
+- Python
+- C++
+- PyTorch
+- TensorFlow
 
-I also create educational content about **AI, programming, and neural networks**.
+I also build **web applications** using:
 
----
+- HTML
+- CSS
+- JavaScript
 
-# 📊 AI Skills Radar
+In addition, I work with **advanced database systems and database architecture**, designing scalable and efficient data solutions.
 
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=tokyonight"/>
-</p>
+I am passionate about building intelligent software systems and sharing knowledge about **AI, programming, and advanced computing technologies**.
 
 ---
 
 # 🧰 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,git,github,vscode,linux"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,git,github,vscode,linux,html,css,javascript,sql"/>
 </p>
 
 ---
 
-# 🤖 Featured AI Projects
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🤖 Featured Projects
 
 <p align="center">
 
@@ -54,62 +65,33 @@ I also create educational content about **AI, programming, and neural networks**
 
 ---
 
-# 🖼 Projects Gallery
+# 📚 Research & Learning
 
-| Project | Description |
-|-------|-------------|
-| Neural Network Classifier | AI model for classification problems |
-| Deep Learning Experiments | Experiments using PyTorch |
-| Machine Learning Toolkit | Collection of ML algorithms |
+Current focus areas:
 
----
-
-# 📚 Papers / Research Notes
-
-Future publications will include:
-
-- Neural network experiments  
-- Deep learning implementations  
-- AI research notes  
-- Case studies of machine learning systems  
+- Deep Learning
+- Neural Networks
+- Digital Signal Processing
+- Artificial Intelligence Systems
+- Advanced Database Systems
+- Web Engineering
 
 ---
 
-# 📈 GitHub Statistics
+# 🐍 GitHub Contribution Snake
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+# 📡 Connect With Me
 
 <p align="center">
-<img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg"/>
-</p>
 
----
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+</a>
 
-# 🧭 AI Learning Dashboard
-
-| Topic | Progress |
-|------|---------|
-| Neural Networks | █████████░ |
-| Deep Learning | ███████░░░ |
-| Reinforcement Learning | ███░░░░░░ |
-| Large Language Models | ████░░░░░ |
-| AI System Design | █████░░░░ |
-
----
-
-# 🎯 Vision
-
-My goal is to build **advanced AI systems** and contribute to the development of **intelligent technologies that solve real-world problems**.
-
----
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 </p>
